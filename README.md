@@ -1,1 +1,3 @@
-#QUIZ на HTML, CSS & JS
+
+https://rivixxx.github.io/quiz
+# QUIZ
