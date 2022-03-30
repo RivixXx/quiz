@@ -107,6 +107,7 @@ body {
 
 .selection {
     padding: 50px;
+    background-color: #296c82;
 }
 
 .selection__list {
